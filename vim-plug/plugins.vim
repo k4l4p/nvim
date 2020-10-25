@@ -25,6 +25,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'ryanoasis/vim-devicons'
     " Startify    
     Plug 'mhinz/vim-startify'
-
-
+    " Iceberg theme
+    Plug 'cocopon/iceberg.vim'
     call plug#end()
