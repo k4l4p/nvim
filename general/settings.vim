@@ -20,3 +20,5 @@ set updatetime=300
 set timeoutlen=500
 set clipboard=unnamedplus
 set number
+set relativenumber
+colorscheme iceberg
