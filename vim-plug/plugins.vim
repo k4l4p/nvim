@@ -29,4 +29,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'cocopon/iceberg.vim'
     " Goyo
     Plug 'junegunn/goyo.vim'
+    "color
+    Plug 'norcalli/nvim-colorizer.lua'
     call plug#end()

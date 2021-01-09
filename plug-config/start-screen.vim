@@ -8,7 +8,8 @@ let g:startify_lists = [
           \ ]
 
 let g:startify_bookmarks = [
-            \ { 'c': '~/.config/i3/config' },
+            \ { 'c': '~/.config/bspwm/bspwmrc' },
+            \ { 's': '~/.config/sxhkd/sxhkdrc' },
             \ { 'i': '~/.config/nvim/init.vim' },
             \ { 'z': '~/.zshrc' },
             \ ]
