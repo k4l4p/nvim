@@ -21,5 +21,4 @@ set timeoutlen=500
 set clipboard=unnamedplus
 set number
 set relativenumber
-set termguicolors
-colorscheme iceberg
+colorscheme wal

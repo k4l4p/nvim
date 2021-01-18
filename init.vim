@@ -20,3 +20,7 @@ source $HOME/.config/nvim/general/mappings.vim
 
 " Airline
 source $HOME/.config/nvim/plug-config/airline.vim
+
+
+"fzf
+source $HOME/.config/nvim/plug-config/fzf.vim

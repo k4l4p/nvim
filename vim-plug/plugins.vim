@@ -31,4 +31,10 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'junegunn/goyo.vim'
     "color
     Plug 'norcalli/nvim-colorizer.lua'
+    "fzf stuffs
+    Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+    Plug 'junegunn/fzf.vim'
+    Plug 'airblade/vim-rooter'
+    " Wal color
+    Plug 'dylanaraps/wal.vim'
     call plug#end()
